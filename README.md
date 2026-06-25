@@ -6,7 +6,7 @@ Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas, e estou apr
 ## Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/victoralex-ch/"/>
+  <a href="https://www.linkedin.com/in/victoralex-ch/" target="_blank"/>
   <img align= "left" alt="LinkedIn" max width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png"/>
 </p>
   
